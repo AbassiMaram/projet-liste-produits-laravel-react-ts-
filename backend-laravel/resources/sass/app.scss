@@ -1,0 +1,12 @@
+// Importer des bibliothèques ou d'autres fichiers CSS si nécessaire
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+// Ajouter des styles personnalisés
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+}
+
+// Ajouter d'autres styles personnalisés selon les besoins de votre application

@@ -1,0 +1,6 @@
+{
+    "/js/app.js": "/build/js/app.12345.js",
+    "/css/app.css": "/build/css/app.67890.css",
+    "/js/chunk-vendors.js": "/build/js/chunk-vendors.54321.js"
+  }
+  
